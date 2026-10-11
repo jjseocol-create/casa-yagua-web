@@ -1,0 +1,26 @@
+# Casa Yagua
+
+> Casa Yagua has three private vacation rental apartments in Cabarete, on the north coast of the Dominican Republic. The Terrace Apartment is on the upper floor and has a private rooftop terrace. The Beach Studio and the Garden Studio are on the garden level. Guests can book direct on casayagua.com and pay 10% less than the Airbnb price; each apartment is also listed on Airbnb.
+
+Key facts:
+
+- Location: Cabarete, Puerto Plata province, Dominican Republic. The exact address is shared after booking.
+- Nearest airport: Gregorio Luperón International Airport (POP), about 25 minutes by car.
+- Apartments: Terrace Apartment (upper floor, private rooftop terrace, open kitchen, living room, main bedroom with stone bathroom, bunk room), Beach Studio (garden level, platform bed, stone bathroom with rain shower) and Garden Studio (garden level, kitchenette, stone floors, patio).
+- The rooftop terrace is private to the Terrace Apartment. Guests of the two studios don't have access to it.
+- Groups can book two or three apartments side by side when they're available.
+- Booking: direct on casayagua.com through the site's booking engine (live availability, instant confirmation, secure card payment), at 10% less than the Airbnb price for the same apartment and dates. Each apartment is also listed on Airbnb for guests who prefer it.
+- Nearby: Kite Beach, Cabarete Bay and Playa Encuentro. Sosúa is about 20 minutes west.
+- Website languages: English (root) and Spanish (/es/).
+
+## Pages
+
+- [Home](https://casayagua.com/index.md): the three apartments with direct prices, why book direct, kitesurfing, getting here and booking FAQ
+
+## Español
+
+- [Inicio](https://casayagua.com/es/index.md): versión en español de la página de inicio: los tres apartamentos con precio directo (10 % menos que en Airbnb), cómo llegar y preguntas sobre la reserva
+
+## Optional
+
+- [Sitemap](https://casayagua.com/sitemap.xml): every indexable page in English and Spanish

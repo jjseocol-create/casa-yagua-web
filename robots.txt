@@ -1,0 +1,22 @@
+# robots.txt for https://casayagua.com
+# Crawling stays open so search engines can read the pages' meta robots tag.
+# Until launch, every page carries <meta name="robots" content="noindex">.
+
+User-agent: *
+Allow: /
+
+# AI search and assistant crawlers: allowed on purpose, so Casa Yagua can be
+# cited in AI answers. To opt one out, give it its own group with "Disallow: /".
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://casayagua.com/sitemap.xml
